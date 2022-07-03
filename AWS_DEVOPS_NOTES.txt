@@ -1,0 +1,125 @@
+DevOps is a combination of the two words “development” and “operations.” Patrick Debois, a DevOps expert, came up with the term “DevOps” in 2009 and it stuck ever since. Some people say that it was around this time that there was a shift in IT culture, and DevOps represents this shift. DevOps is an umbrella term that describes the operation of a team collaborating throughout an entire programming production process - from the design through the development stages. It’s a combination of tools and philosophies that increase a team’s capability to produce results at high efficiency.
+The Core of DevOps
+Although the definition of DevOps is essentially an evolution in IT culture, it’s also essential to know about the technical backbone of DevOps. As mentioned above, agile development is one significant part of DevOps and was a significant influence in its creation. These days, it’s uncommon and not recommended to practice Agile without DevOps. It’s possible, but not efficient at all. 
+
+System administrators were another vital part of the creation of DevOps. Since then, DevOps has encompassed some of the best enterprise systems management (ESM) practices. Some of these practices include essentials like automation and system monitoring — just some of the many things that are vital for efficient software development.
+
+DevOps in Depth
+While there is no single definition of DevOps, some of the general principles behind the practice can be found in The Agile Manifesto.  Moreover, at the core of any successful strategy, is what is known as the “DevOps Trinity”:
+
+People and Culture – This means breaking down the traditional silos between teams in the organization and working together towards a common goal. The goal is to get quality software to the customer as quickly as possible.
+Processes and Practices – Agile and DevOps go hand in hand. By adopting Agile, Scrum or Kanban, plus automation, organizations can streamline processes in predictable and repeatable ways.
+Tools and Technologies – Without the right tools and technologies in place, DevOps is not a sustainable model. These enable automation, continuous integration, configuration management, testing, packaging, releasing, and monitoring.
+
+What It’s Like to Work With DevOps
+If you’ve never worked in DevOps before, you may be curious as to what a typical programming process is like using a DevOps approach. 
+
+Automation is a critical component of DevOps. DevOps users depend on various tools for different tasks and operations throughout the software development process. But DevOps is more than just a collection tool; this is only a part of how the DevOps process works.
+
+Since DevOps uses an Agile approach, DevOps users will be integrating their work with the work of other programmers very frequently. This is often continuous and can help reveal any problems earlier in the process. DevOps users are also continuously testing their code to avoid unnecessarily long and drawn out QA sessions with various automation tools. Doing so helps cut down on project time tremendously.
+
+As a DevOps user, it’s also important to realize that working entirely on your own and without fully embracing teamwork goes against what DevOps is all about. The success of DevOps relies heavily on collaboration between all team members involved in a particular project.
+
+Why DevOps? 
+Teams who take on a DevOps approach tend to finish their projects faster. There are often fewer miscommunications, and improvements and other needed changes are done quickly. The DevOps approach encourages more collaboration between the operations and development teams, and everyone’s objectives are more aligned. By not using a DevOps approach, teams may find that projects end up late more often, and they are just not as efficient overall. 
+
+Who Uses DevOps?
+DevOps is not just for software developers and operators; others end up in the DevOps process in some way. Project managers, test engineers, and system administrators are some of the many professionals who may find themselves involved in the DevOps process. Even executives may be involved in the DevOps process somehow, or at the very least, fully embrace this approach due to the efficient results that are delivered. 
+
+Sign Up for Our DevOps Certification Training Course
+Now that you’ve learned more about what is DevOps and how it works, you may want to know more about how you can master a DevOps approach. If you’re looking to switch into a new career field that’s quickly growing and can lead to amazing opportunities, consider working in DevOps. Due to the high demand of DevOps professionals, this exciting industry can be just what you’re looking for if you’re looking for something challenging and lucrative. 
+
+What is AWS?
+Cloud computing has surged in popularity, and consequently, users face a choice of over a dozen different cloud providers, such as Google Cloud, Microsoft Azure, and IBM Cloud Services. AWS is the acronym for Amazon's cloud provider, Amazon Web Services. AWS offers all the services and features (e.g., security, compute capacity, and databases) that you typically get in an in-house data center. It's arguably the largest cloud provider available.
+
+So, What is AWS DevOps?
+AWS DevOps is Amazon's answer to implementing the DevOps philosophy using its cloud platform and dedicated tools and services. In their own words, "AWS provides a set of flexible services designed to enable companies to more rapidly and reliably build and deliver products using AWS and DevOps practices. These services simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance."
+
+AWS DevOps provides application developer teams with the means to efficiently implement continuous integration and continuous delivery (CI/CD). This enables them to securely store and version application source code, while automatically building, testing, and eventually deploying the application to either on-premises environments or to AWS.
+
+There are three primary categories in cloud computing:
+
+Software as a Service (SaaS)
+Platform as a Service (PaaS)
+Infrastructure as a Service (IaaS)
+AWS falls under the IaaS category—a scalable instant-computing infrastructure that the customer completely controls, including virtual servers and operating systems (OSes).
+
+What is AWS DevOps and Tools You Need to Develop a Production-Grade Web App
+By Simplilearn
+Last updated on Jul 28, 202124167
+What is AWS DevOps and What Tools do You need to Develop a Production-Grade Web App
+Table of Contents
+What is DevOps?What is AWS?So, What is AWS DevOps?AWS DevOps ArchitectureAWS DevOps ToolsView More
+A combination of "development" and "operations," DevOps is a set of practices for agile software design. It's a simplified methodology, so consequently, there are many different varieties to choose from.
+
+In this article we will cover the following topics to give you clear understanding of AWS Devops and more, including:
+
+What is DevOps?
+What is AWS?
+What is AWS DevOps?
+AWS DevOps architecture
+AWS DevOps tools
+AWS DevOps best practices
+Interested to begin a career in DevOps? Enroll now for the DevOps Certification Course. Click to check out the course curriculum.
+What is DevOps?
+Building off the earlier brief description, here is how Amazon defines DevOps: "DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes."
+
+DevOps brings together the development and operations groups for a faster, more accurate, and more responsive software delivery experience. If you want an even more in-depth definition, check out What is DevOps?
+
+
+
+What is AWS?
+Cloud computing has surged in popularity, and consequently, users face a choice of over a dozen different cloud providers, such as Google Cloud, Microsoft Azure, and IBM Cloud Services. AWS is the acronym for Amazon's cloud provider, Amazon Web Services. AWS offers all the services and features (e.g., security, compute capacity, and databases) that you typically get in an in-house data center. It's arguably the largest cloud provider available.
+
+For a closer look at AWS, Check out this video.
+
+
+
+Now that we have understood about DevOps and AWS, let us now look into what exactly is the AWS DevOps.
+
+So, What is AWS DevOps?
+AWS DevOps is Amazon's answer to implementing the DevOps philosophy using its cloud platform and dedicated tools and services. In their own words, "AWS provides a set of flexible services designed to enable companies to more rapidly and reliably build and deliver products using AWS and DevOps practices. These services simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance."
+
+AWS DevOps provides application developer teams with the means to efficiently implement continuous integration and continuous delivery (CI/CD). This enables them to securely store and version application source code, while automatically building, testing, and eventually deploying the application to either on-premises environments or to AWS.
+
+There are three primary categories in cloud computing:
+
+Software as a Service (SaaS)
+Platform as a Service (PaaS)
+Infrastructure as a Service (IaaS)
+AWS falls under the IaaS category—a scalable instant-computing infrastructure that the customer completely controls, including virtual servers and operating systems (OSes).
+
+After getting an introduction and learning what is AWS DevOps, let us continue our learning by looking into the architecture of AWS DevOps.
+
+Free Course: CI/CD for Beginners
+Master the Fundamentals of CI/CDENROLL NOWFree Course: CI/CD for Beginners
+AWS DevOps Architecture
+To get a better idea of what's involved in implementing DevOps on AWS, we need to break down the system's underlying architecture, using AWS EC2 as our example. EC2 stands for Elastic Compute Cloud, which lets users configure virtual machines and the underlying resources they leverage from a central console. Automation enables IT, administrators, to ensure that resources scale to meet their organization's needs, making the entire process more flexible and cost-effective.
+
+Load Balancing. Most web application architectures feature load balancing. This virtual network appliance distributes EC2 traffic across multiple available web server resources, which can be increased or decreased depending on traffic demands. AWS offers the Elastic Load Balancing service to automate this.
+Amazon CloudFront. This service delivers content, such as a website, and may include dynamic, streaming, and static types. It's optimized to operate in conjunction with other AWS components and is also compatible with non-AWS clouds.
+Amazon Security Group. Due to the rise in hacking incidents, security is a huge priority. This feature acts as an inbound network firewall. Customers must specify the authorized protocols, ports, and source IP ranges to gain EC2 access. Users can give each EC2 instance one or several security groups, each of which sends the authorized traffic to the appropriate instance.
+Elastic Caches. This web service manages the cloud's memory cache. Elastic caches reduce the strain on the services by caching frequently used data, thereby increasing performance and scalability.
+Amazon Relational Database Service (RDS). The RDS service simplifies the setup, operations, and scalability of a cloud-based relational database. It manages the everyday database administration functions and tasks and provides an easily scalable, cost-efficient means of working with relational databases. RDS currently supports the following databases: Amazon Aurora, MariaDB, Microsoft SQL Server, MySQL, Oracle, and PostgreSQL.
+Amazon's Simple Storage Service (S3). The AWS cloud offers two options for accessing, backing up, and storing web application data and other assets. S3 gives users a simple UI to manage any amount of data, anytime, from anywhere on the web. Users store data as objects within buckets. These objects, in turn, can be accessed, added to, read, or deleted as needed.
+Amazon Elastic Block Store (EBS): This is a high-performance block storage solution that helps manage data partitions and application logs. Users turn to EBS when they need rapid access and long-term persistence. EBS volumes are particularly ideal for dealing with primary storage for databases, file systems, or any applications that need access to unformatted, raw, block-level storage, and granular updates.
+Amazon Auto Scaling. This service creates capacity groups of servers that users can expand or reduce as needed and on-demand.
+
+AWS DevOps Tools
+AWS DevOps offers a comprehensive selection of tools to build and deploy software in the cloud. Here's a sample of a few of the more popular tools.
+
+AWS Cloud Development Kit. This tool is an open-source software development framework that uses familiar programming languages for modeling and provisioning cloud application resources.
+AWS CodeBuild. CodeBuild is an integration service that scales continuously and processes multiple builds. Users can build and test code with continuous scaling.
+AWS CodeDeploy. This tool automates software deployments to several different computer services like Amazon EC2, AWS Fargate, AWS Lambda, or any other on-premises servers you choose.
+AWS CodePipeline. This DevOps tool automates your continuously-delivered code for rapid and accurate updates.
+AWS CodeStar. CodeStar is a particularly useful tool to conduct DevOps on AWS. It provides an intuitive user interface to help users effortlessly develop, build, and deploy applications on AWS. You can set up an entire continuous delivery toolchain in minutes.
+AWS Device Farm. Mobile apps are a big deal today, and this tool helps developers improve the quality of their web and mobile apps by testing them across real mobile devices and desktop browsers hosted in the AWS Cloud. You can even run tests concurrently on different devices and browsers!
+
+AWS DevOps Best Practices
+App developers who want to combine AWS and DevOps successfully must keep in mind these best practices:
+
+Continuous Integration/Continuous Delivery. CI/CD pipelines are the lifeblood of the DevOps philosophy. Continuous integration means building and regularly validating the project by updating code changes at set intervals. Continuous delivery builds off CI by automatically deploying code in the production environment.
+Infrastructure Automation. This practice focuses on quality code and the need to test it at regular intervals automatically.
+Infrastructure as Code. This practice provisions and manages your AWS cloud resources by writing a template file that is machine consumable and human-readable. The AWS CloudFormation tool is the go-to resource for AWS cloud development users.
+Monitoring and Logging. All system activity needs to be monitored and recorded to assure that events get triggered at the right time, and also to correct anything that isn't performing well.
+Communication and Collaboration. Every team and department needs to be on board with the project and stay informed. Additionally, there needs to be a forum to share useful feedback that may shape the course of the project.
